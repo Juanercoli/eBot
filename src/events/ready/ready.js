@@ -5,6 +5,6 @@ module.exports = class ReadyEvent extends BaseEvent {
     super('ready');
   }
   async run (client) {
-    console.log(client.user.tag + ' has logged in.');
+    console.log(`${client.user.tag} has logged in at ${client.readyAt}.`);
   }
 }
