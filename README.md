@@ -2,7 +2,9 @@
 
 eBot is a multi-use bot with a base made in Slappey.
 
-Feel free to use it in your own project!
+The 'e' in the name stands for example.
+
+\*Feel free to use it in your own project!\*
 
 ## Requires
 
