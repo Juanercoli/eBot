@@ -1,9 +1,7 @@
 module.exports = Object.freeze({
-  TITLE: 'I\'m here to help you!',
+  TITLE: '\`I\'m here to help you!\`\n',
   DESCRIPTION_1: `The commands are case sensitive! \n\n`,
-  DESCRIPTION_2: `My prefix is \`${process.env.DISCORD_BOT_PREFIX}\` \n 
-  e.g: \n
-  \`-CommandName to use any command that is available for use. \``,
+  DESCRIPTION_2: `My prefix is \`${process.env.DISCORD_BOT_PREFIX}\``,
   FOOTER: 'You can see my code at github.com/Juanercoli/eBot',
   
   SEPARATOR: '\`=============================================\`',

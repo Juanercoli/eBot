@@ -1,0 +1,5 @@
+-Added help command
+-Added purge command
+-Added assignChannel command
+-Added meme command
+-Added bot versioning
