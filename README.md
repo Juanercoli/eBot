@@ -1,6 +1,6 @@
 # eBot
 
-eBot is a multi-use bot with a base made in Slappey.
+eBot is a multi-use bot with a base made in Slappey for discord.js v12.
 
 The 'e' in the name stands for example.
 
