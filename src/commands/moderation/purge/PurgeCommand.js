@@ -1,4 +1,4 @@
-const BaseCommand = require('../../utils/structures/BaseCommand.js');
+const BaseCommand = require('../../../utils/structures/BaseCommand.js');
 const Discord = require('discord.js');
 
 

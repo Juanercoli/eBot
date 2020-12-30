@@ -1,5 +1,5 @@
-const BaseCommand = require('../../utils/structures/BaseCommand.js');
-const botChannel = require('../../../botChannel.json');
+const BaseCommand = require('../../../utils/structures/BaseCommand.js');
+const botChannel = require('../../../../botChannel.json');
 const fs = require('fs');
 
 const BOT_CHANNEL_PATH = './botChannel.json';

@@ -1,4 +1,4 @@
-const BaseCommand = require('../../utils/structures/BaseCommand.js');
+const BaseCommand = require('../../../utils/structures/BaseCommand.js');
 const { MessageEmbed } = require('discord.js');
 const constants = require('./helpCommandConstants');
 
